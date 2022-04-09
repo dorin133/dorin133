@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @dorin133
-- 👀 I’m interested in software development and data science
-- 🌱 I’m currently learning Computer Science at the Technion
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: dorin.sh@campus.technion.ac.il
 
 <!---
